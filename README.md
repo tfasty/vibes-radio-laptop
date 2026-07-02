@@ -1,4 +1,4 @@
-#:musical_note: Vibes Radio PC
+# 💻 Vibes Radio PC
 
 ## Aperçu
 
@@ -9,16 +9,16 @@ Vibes Radio PC est une expérience d'écoute pour els radio international qui so
 - **Easter Eggs interactifs** cachés dans l'interface
 - **Design** moderne et élégant
 
-## :sparkles: Fonctionnalités
+## ✨ Fonctionnalités
 
-### :radio: Radios Internationales
+### 📻 Radios Internationales
 - **38 stations** gratuit est sans problème (sauf la radio japon qui est down)
 - **8 pays** : France, US, Allemagne, Espagne, Italie, Japon (down), Belgique, Maroc
 - Streaming de haute qualité en direct 24/7
 - Contrôles intuitifs comme toute radios (play/pause)
 - Interface épurée et moderne
 
-### :rainbow: Thèmes Saisonniers
+### 🌈 Thèmes Saisonniers
 - **Changement automatique** saison synchronisé avec les date internationale
 - **Changement manuel** dans le Centre de Contrôle
 - **Animations immersives** pour chaque saison :
@@ -27,17 +27,17 @@ Vibes Radio PC est une expérience d'écoute pour els radio international qui so
   - :sunny: **Été** : rayon de soleil avec des émoticône tombants
   - :fallen_leaf: **Automne** : fête d'halloween dons des feuille qui tonbant
 
-### :video_game: Easter Eggs
+### 🎮 Easter Eggs
 **Des Easter Eggs cachés**: à découvrir ?
 
-### :art: Design
+### 🎨 Design
 - **Interface glassmorphism** avec effets de blur
 - **Animations fluides** et performantes
 - **Responsive** : S'adapte à toutes les tailles d'écran
 - **Mode plein écran** recommandé pour l'expérience optimale
 - **Particules saisonnières** en arrière-plan
 
-## :rocket: Technologies
+## 🚀 Technologies
 
 - **HTML5** - Structure
 - **CSS3** - Animations et glassmorphism
@@ -45,13 +45,13 @@ Vibes Radio PC est une expérience d'écoute pour els radio international qui so
 - **HTML5 Audio API** - Streaming radio
 - **Canvas API** - Animations de particules
 
-### :globe_with_meridians: En ligne
+### 🌐 En ligne
 Accède directement à l'application :
 ```
 https://tfasty.github.io/winter-vibes-radio/
 ```
 
-## :dart: Utilisation
+## 🎯 Utilisation
 
 ### Navigation
 - **Sélection radio** : Clique sur une station dans la liste
@@ -66,28 +66,28 @@ https://tfasty.github.io/winter-vibes-radio/
 
 ## Radios Disponibles
 
-### France (9 radios)
+### 🇫🇷 (9 radios)
 FIP, Noël Radio, TSF Jazz, France Musique, FIP Electro, FIP Rock, FIP Groove, J-Pop Powerplay, Skyrock
 
-### English (4 radios)
+### 🇬🇧: (4 radios)
 Chrismas UK, Jazz FM, Heart Radio, Smooth FM
 
-### Allemagne (9 radios)
+### 🇩🇪 (9 radios)
 I Love Chill, I Love Christmas, I Love Jazz, I Love Relax, I Love Dance, I Love Rock, I Love Radio, I Love Lounge, Anime DE
 
-### Espagne (4 radios)
+### 🇪🇸 (4 radios)
 Novidad, Jazz ES, Los 40, Anime ES
 
-### Italie (4 radios)
+### 🇮🇹 (4 radios)
 Radio 105, Virgin Radio, Radio Monte Carlo, Natale
 
-### Japon (1 radios)
+### 🇯🇵 (1 radios)
 Listen.moe (down)
 
-### Maroc (2 radios)
+### 🇲🇦 (2 radios)
 Noël MA, Jazz MA
 
-## :art: Thèmes Saisonniers
+## 🎨 Thèmes Saisonniers
 
 ### :snowflake: Hiver (Décembre - Février)
 - **Couleurs** : Bleu glacé, blanc, violet
@@ -122,7 +122,7 @@ Merci à tous les streamers et radios pour leurs flux audio !
 
 ## Astuces
 
-- :desktop: **Utilise le mode plein écran (F11)**
+- 💻 **Utilise le mode plein écran (F11)**
 - :art: **Explore les Easter Eggs** 
 - :rainbow: **Change de saison**
 - :loud_sound: **Règle le volume**
