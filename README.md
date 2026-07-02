@@ -1,4 +1,4 @@
-# 🎵 Vibes Radio PC - Winter Edition
+# 🎵 Vibes Radio PC
 
 Application web de streaming radio pour PC avec animations saisonnières immersives.
 
