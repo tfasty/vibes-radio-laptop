@@ -1,6 +1,6 @@
 #:musical_note: Vibes Radio PC
 
-## :computer: Aperçu
+## Aperçu
 
 Vibes Radio PC est une expérience d'écoute pour els radio international qui sont optimisée pour le grand écran avec :
 - **38 radios internationales** de 8 pays
@@ -64,27 +64,27 @@ https://tfasty.github.io/winter-vibes-radio/
 - **F11** : Mode plein écran
 - **Esc** : Quitter le plein écran
 
-## :earth_africa: Radios Disponibles
+## Radios Disponibles
 
-### :flag_fr: France (9 radios)
+### France (9 radios)
 FIP, Noël Radio, TSF Jazz, France Musique, FIP Electro, FIP Rock, FIP Groove, J-Pop Powerplay, Skyrock
 
-### :flag_us: English (4 radios)
+### English (4 radios)
 Chrismas UK, Jazz FM, Heart Radio, Smooth FM
 
-### :flag_de: Allemagne (9 radios)
+### Allemagne (9 radios)
 I Love Chill, I Love Christmas, I Love Jazz, I Love Relax, I Love Dance, I Love Rock, I Love Radio, I Love Lounge, Anime DE
 
-### :flag_es: Espagne (4 radios)
+### Espagne (4 radios)
 Novidad, Jazz ES, Los 40, Anime ES
 
-### :flag_it: Italie (4 radios)
+### Italie (4 radios)
 Radio 105, Virgin Radio, Radio Monte Carlo, Natale
 
-### :flag_jp: Japon (1 radios)
+### Japon (1 radios)
 Listen.moe (down)
 
-### :flag_ma: Maroc (2 radios)
+### Maroc (2 radios)
 Noël MA, Jazz MA
 
 ## :art: Thèmes Saisonniers
@@ -120,7 +120,7 @@ Les contributions sont les bienvenues ! N'hésite pas à :
 
 Merci à tous les streamers et radios pour leurs flux audio !
 
-## :bulb: Astuces
+## Astuces
 
 - :desktop: **Utilise le mode plein écran (F11)**
 - :art: **Explore les Easter Eggs** 
