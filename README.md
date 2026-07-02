@@ -2,10 +2,6 @@
 
 Application web de streaming radio pour PC avec animations saisonnières immersives.
 
-![Version](https://img.shields.io/badge/version-Winter%20Edition-blue)
-![Status](https://img.shields.io/badge/status-active-success)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ## 💻 Aperçu
 
 Vibes Radio PC est une expérience d'écoute radio optimisée pour grand écran avec :
